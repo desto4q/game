@@ -1,0 +1,6 @@
+res://main.tscn
+res://scenes/main_character.tscn
+res://scenes/main_character.gd
+res://scenes/collectable.tscn
+res://scenes/collectable.gd
+res://game_manager.gd
